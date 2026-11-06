@@ -30,7 +30,7 @@ export default function DateReveal() {
         <h2>Discover Our Special Date</h2>
 
         <p>
-          Scratch each golden card to reveal
+          Scratch each golden card completely to reveal
           our day of celebration.
         </p>
 

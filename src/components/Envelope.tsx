@@ -1,3 +1,4 @@
+
 import { useState } from "react";
 import { motion } from "framer-motion";
 
@@ -31,13 +32,12 @@ export default function Envelope({ onOpen }: EnvelopeProps) {
         className="invitation-entry-image"
       />
 
-      <motion.button
+      <button
         type="button"
         className="golden-seal-hotspot"
         onClick={handleOpen}
         disabled={opening}
         aria-label="Tap the golden seal to open the wedding invitation"
-        whileTap={{ scale: 0.9 }}
       />
     </motion.div>
   );
