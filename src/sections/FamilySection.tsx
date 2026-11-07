@@ -34,7 +34,7 @@ function FamilySection() {
             <h3>Neha Kumari</h3>
             <p className="family-relation">Beloved daughter of</p>
             <p className="family-parent">Raj Kishore Yadav</p>
-            <p className="family-parent">Reema Devi</p>
+            <p className="family-parent">Geerja Devi</p>
           </div>
         </div>
 
